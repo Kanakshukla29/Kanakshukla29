@@ -1,14 +1,14 @@
 # Hi, I'm Kanak Shukla 👋
-3rd-year CS Student | AI & Data Science Enthusiast | Full-Stack Developer
+3rd-year AI/DS Student | AI & Data Science Enthusiast | Full-Stack Developer
 
 ---
 
 ## About Me
 - 🏠 From: Your City, India
-- 🎓 Education: B.Tech in CS (Class of 2027)
+- 🎓 Education: B.Tech in AI/DS
 - 💻 Profession: Student & Freelance Developer
 - 🌱 Currently exploring: Python, ML, React, Docker
-- 📫 Reach me: kanakshukla29@example.com
+- 📫 Reach me: kanakshukla610@gmail.com
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanakshukla29)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanakshukla29@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanakshukla610@gmail.com)
 
 ---
 
