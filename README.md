@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-- 🏠 From: Your City, India
+- 🏠 From: Alwar City Rajasthan , India
 - 🎓 Education: B.Tech in AI/DS
 - 💻 Profession: Student & Freelance Developer
 - 🌱 Currently exploring: Python, ML, React, Docker
