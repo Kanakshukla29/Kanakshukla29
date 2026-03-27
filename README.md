@@ -25,7 +25,7 @@
 ## Projects
 - [Deepfake Video Detection](https://github.com/kanakshukla29/Deepfake-Detection) — AI/ML project detecting fake videos
 - [Multi-national Regulatory Watchtower](https://github.com/kanakshukla29/Regulatory-Watchtower) — Data automation & dashboards
-- [Portfolio Website](https://github.com/kanakshukla29/Portfolio) — My personal portfolio website
+- [Portfolio Website]https://kanakshukla610.wixsite.com/2911 — My personal portfolio website
 
 ---
 
