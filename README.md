@@ -7,7 +7,7 @@
 ## 🔥 About Me
 
 - 🌍 From: India
-- 🎓 Age: 20
+- 🎓 Age: 19
 - 💼 Profession: Student
 - 📚 My Projects: [Explore on GitHub](https://github.com/Kanakshukla29?tab=repositories)
 - 🔧 Currently working on: Data Analytics Projects
