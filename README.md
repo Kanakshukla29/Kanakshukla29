@@ -3,16 +3,31 @@
 
 ---
 
+## Table of Contents
+- [About Me](#about-me)
+- [Tech Stack](#tech-stack)
+- [Projects](#projects)
+- [Experience & Education](#experience--education)
+- [Contact](#contact)
+- [GitHub Stats](#github-stats)
+
+---
+
 ## About Me
-- 🏠 From: Alwar City Rajasthan , India
-- 🎓 Education: B.Tech in AI/DS
-- 💻 Profession: Student & Freelance Developer
-- 🌱 Currently exploring: Python, ML, React, Docker
-- 📫 Reach me: kanakshukla610@gmail.com
+- 🏠 From: Alwar City, Rajasthan, India  
+- 🎓 Education: B.Tech in AI/DS  
+- 💻 Profession: Student & Freelance Developer  
+- 🌱 Currently exploring: Python, ML, React, Docker  
+- 📫 Reach me: [kanakshukla610@gmail.com](mailto:kanakshukla610@gmail.com)
 
 ---
 
 ## Tech Stack
+- Languages & frameworks: Python, JavaScript (React/Node), HTML, CSS
+- ML / DS: NumPy, pandas, scikit-learn, PyTorch / TensorFlow (add what you use)
+- Tools: Git, Docker, VS Code
+
+Badges:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,13 +38,28 @@
 ---
 
 ## Projects
-- [Portfolio Website]https://kanakshukla610.wixsite.com/portfolio My personal portfolio website
+- [Deepfake Video Detection](https://github.com/kanakshukla29/Deepfake-Detection) — AI/ML project detecting fake videos.  
+  - Tech: Python, OpenCV, PyTorch (add specifics).  
+  - Notes: Add brief run instructions or a demo link in the project repo.
+- [Multi-national Regulatory Watchtower](https://github.com/kanakshukla29/Regulatory-Watchtower) — Data automation & dashboards.  
+  - Tech: Python, ETL tools, dashboards (add specifics).
+- [Portfolio Website](https://kanakshukla610.wixsite.com/portfolio) — My personal portfolio website.
+
+(Consider adding tech stack, screenshots, and "How to run" for each project to help recruiters and collaborators.)
 
 ---
 
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanakshukla29)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito.kanakshukla610@gmail.com)
+## Experience & Education
+- B.Tech in AI/DS — [Your University], expected graduation: YYYY  
+- Freelance Developer — small web apps, data automation, ML prototypes
+
+(Optionally add internships, coursework, and notable achievements.)
+
+---
+
+## Contact
+- LinkedIn: https://linkedin.com/in/kanakshukla29  
+- Email: [kanakshukla610@gmail.com](mailto:kanakshukla610@gmail.com)
 
 ---
 
@@ -39,18 +69,3 @@
 ---
 
 > "Eat 🥪, Debug Python 🐍, Repeat 🔁"
-
-<!--
-**Kanakshukla29/Kanakshukla29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
