@@ -130,12 +130,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-[![Ashish's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Kanakshukla29&theme=dracula)](https://github.com/ashishpatel29/github-profile-readme-generator)
-
----
-
 ## 📬 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanakshukla29)
