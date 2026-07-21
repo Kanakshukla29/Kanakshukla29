@@ -1,6 +1,12 @@
-# 🚀 Hi, I'm Kanak Shukla 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=150&section=header&text=Hi,%20I'm%20Kanak%20Shukla&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=65" alt="header" />
+</p>
 
-**Data Analyst | Data Scientist | AI Enthusiast | AI Developer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Scientist;AI+Enthusiast;AI+Developer" alt="Typing SVG" />
+</p>
+
+<hr>
 
 ---
 
@@ -9,13 +15,13 @@
 - 🌍 From: India
 - 🎓 Age: 19
 - 💼 Profession: Student
-- 📚 My Projects: [Explore on GitHub](https://github.com/Kanakshukla29?tab=repositories)
+- 📚 Explore on GitHub: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=red)](https://github.com/Kanakshukla29?tab=repositories)
 - 🔧 Currently working on: Data Analytics Projects
 - 🚀 Exploring: Python, Flask, and ML Libraries in Python
 - 🤖 Building mini projects with AI, ML, and DL
 - 🤝 Open to collaborating on: Data Projects & AI Projects
-- 📧 Reach me at: [kanakshukla610@gmail.com](mailto:kanakshukla610@gmail.com)
-- 🌐 Website: [Visit](https://kanakshukla610.wixsite.com/portfolio)
+- 📧 Reach me at: [![Email](https://img.shields.io/badge/-Email-D14836?style=social&logo=gmail)](mailto:kanakshukla610@gmail.com)
+- 🌐 Website: [![Website](https://img.shields.io/badge/Website-Visit-7F77DD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-website-link.com)
 - 📄 View My Resume:[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs)](https://drive.google.com/file/d/14I9UoFfEDciRzRA4a0lfsCxfqmfRBQTh/view?usp=drivesdk)
 - 🎯 Fun Fact: Eat 🥪, Code 💻, Repeat 🔁
 
