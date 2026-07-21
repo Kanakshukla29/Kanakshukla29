@@ -3,16 +3,6 @@
 
 ---
 
-## Table of Contents
-- [About Me](#about-me)
-- [Tech Stack](#tech-stack)
-- [Projects](#projects)
-- [Experience & Education](#experience--education)
-- [Contact](#contact)
-- [GitHub Stats](#github-stats)
-
----
-
 ## About Me
 - 🏠 From: Alwar City, Rajasthan, India  
 - 🎓 Education: B.Tech in AI/DS  
@@ -38,11 +28,6 @@ Badges:
 ---
 
 ## Projects
-- [Deepfake Video Detection](https://github.com/kanakshukla29/Deepfake-Detection) — AI/ML project detecting fake videos.  
-  - Tech: Python, OpenCV, PyTorch (add specifics).  
-  - Notes: Add brief run instructions or a demo link in the project repo.
-- [Multi-national Regulatory Watchtower](https://github.com/kanakshukla29/Regulatory-Watchtower) — Data automation & dashboards.  
-  - Tech: Python, ETL tools, dashboards (add specifics).
 - [Portfolio Website](https://kanakshukla610.wixsite.com/portfolio) — My personal portfolio website.
 
 (Consider adding tech stack, screenshots, and "How to run" for each project to help recruiters and collaborators.)
@@ -58,8 +43,8 @@ Badges:
 ---
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/kanakshukla29  
-- Email: [kanakshukla610@gmail.com](mailto:kanakshukla610@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/kanakshukla29](https://linkedin.com/in/kanakshukla29)
+- 📧 Email: [kanakshukla610@gmail.com](mailto:kanakshukla610@gmail.com)
 
 ---
 
