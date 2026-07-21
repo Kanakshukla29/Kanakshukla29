@@ -30,8 +30,6 @@ Badges:
 ## Projects
 - [Portfolio Website](https://kanakshukla610.wixsite.com/portfolio) — My personal portfolio website.
 
-(Consider adding tech stack, screenshots, and "How to run" for each project to help recruiters and collaborators.)
-
 ---
 
 ## Experience & Education
@@ -43,8 +41,8 @@ Badges:
 ---
 
 ## Contact
-- 🔗 LinkedIn: [linkedin.com/in/kanakshukla29](https://linkedin.com/in/kanakshukla29)
-- 📧 Email: [kanakshukla610@gmail.com](mailto:kanakshukla610@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanakshukla29)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanakshukla610@gmail.com)
 
 ---
 
