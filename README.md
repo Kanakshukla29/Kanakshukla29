@@ -16,7 +16,7 @@
 - 🤝 Open to collaborating on: Data Projects & AI Projects
 - 📧 Reach me at: [kanakshukla610@gmail.com](mailto:kanakshukla610@gmail.com)
 - 🌐 Website: [Visit](https://kanakshukla610.wixsite.com/portfolio)
-- 📄 View My Resume: [Download](https://github.com/Kanakshukla29/resume/upload/main)
+- 📄 View My Resume: [Download](https://github.com/Kanakshukla29/resume)
 - 🎯 Fun Fact: Eat 🥪, Code 💻, Repeat 🔁
 
 ---
