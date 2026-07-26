@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=150&section=header&text=Hi,%20I'm%20Kanak%20Shukla&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=65" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=150&section=header&text=Hi,%20I'm%20Kanak%20Shukla&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=65" alt="h[...]"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Scientist;AI+Enthusiast;AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Scientist;AI+Enthusiast;AI+Developer" alt[...]"/>
 </p>
 
 <hr>
@@ -22,7 +22,7 @@
 - 🤝 Open to collaborating on: Data Projects & AI Projects
 - 📧 Reach me at: [![Email](https://img.shields.io/badge/-Email-D14836?style=social&logo=gmail)](mailto:kanakshukla610@gmail.com)
 - 🌐 Website: [![Website](https://img.shields.io/badge/Website-Visit-7F77DD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kanakshukla610.wixsite.com/portfolio)
-- 📄 View My Resume:[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs)](https://drive.google.com/file/d/14I9UoFfEDciRzRA4a0lfsCxfqmfRBQTh/view?usp=drivesdk)
+- 📄 View My Resume:[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs)](https://drive.google.com/file/d/14I9UoFfEDciRzRA4a0lfsCxfqmfRBQTh/view?u[...]
 - 🎯 Fun Fact: Eat 🥪, Code 💻, Repeat 🔁
 
 ---
@@ -69,6 +69,7 @@
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="64" height="64" />
 <br>Node.js
+<br><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js Badge" />
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="64" height="64" />
@@ -99,6 +100,7 @@
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="64" height="64" />
 <br>MongoDB
+<br><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="64" height="64" />
