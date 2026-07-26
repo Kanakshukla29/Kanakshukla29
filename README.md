@@ -22,7 +22,7 @@
 - 🤝 Open to collaborating on: Data Projects & AI Projects
 - 📧 Reach me at: [![Email](https://img.shields.io/badge/-Email-D14836?style=social&logo=gmail)](mailto:kanakshukla610@gmail.com)
 - 🌐 Website: [![Website](https://img.shields.io/badge/Website-Visit-7F77DD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kanakshukla610.wixsite.com/portfolio)
-- 📄 View My Resume:[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs)](https://drive.google.com/file/d/14I9UoFfEDciRzRA4a0lfsCxfqmfRBQTh/view?u[...]
+- 📄 View My Resume:[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs)]
 - 🎯 Fun Fact: Eat 🥪, Code 💻, Repeat 🔁
 
 ---
