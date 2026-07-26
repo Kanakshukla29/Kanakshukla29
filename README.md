@@ -67,9 +67,9 @@
 <br>Redux
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="64" height="64" />
+<!-- Replaced techstack image with shields.io badge as requested -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js Badge" />
 <br>Node.js
-<br><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js Badge" />
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="64" height="64" />
@@ -98,9 +98,9 @@
 <br>GitHub
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="64" height="64" />
+<!-- Replaced techstack image with shields.io badge as requested -->
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
 <br>MongoDB
-<br><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
 </td>
 <td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="64" height="64" />
