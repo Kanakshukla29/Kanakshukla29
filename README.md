@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=150&section=header&text=Hi,%20I'm%20Kanak%20Shukla&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=65" alt="h[...]"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=150&section=header&text=Hi,%20I'm%20Kanak%20Shukla&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=65" alt="header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Scientist;AI+Enthusiast;AI+Developer" alt[...]"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Scientist;AI+Enthusiast;AI+Developer" alt="typing"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlxMXN3ano2aGtyZHZ6NDh4NTU3Z29zMGVmMzN1dWhtaGRtaW9xZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif" alt="coding animation" width="480" />
 </p>
 
 <hr>
