@@ -25,7 +25,7 @@
 - 🤖 Building mini projects with AI, ML, and DL
 - 🤝 Open to collaborating on: Data Projects & AI Projects
 - 📧 Reach me at: [![Email](https://img.shields.io/badge/-Email-D14836?style=social&logo=gmail)](mailto:kanakshukla610@gmail.com)
-- 🌐 Website: [![Website](https://img.shields.io/badge/Website-Visit-7F77DD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kanakshukla610.wixsite.com/portfolio)
+- 🌐 Website: [![Website](https://img.shields.io/badge/Website-Visit-7F77DD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kanak-portfolio-taupe.vercel.app/))
 - 📄 View My Resume:![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs)
 - 🎯 Fun Fact: Eat 🥪, Code 💻, Repeat 🔁
 
@@ -141,7 +141,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanakshukla29)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanakshukla29)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanakshukla610@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://kanakshukla610.wixsite.com/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://kanak-portfolio-taupe.vercel.app/)
 
 ---
 
