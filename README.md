@@ -25,8 +25,8 @@
 - 🤖 Building mini projects with AI, ML, and DL
 - 🤝 Open to collaborating on: Data Projects & AI Projects
 - 📧 Reach me at: [![Email](https://img.shields.io/badge/-Email-D14836?style=social&logo=gmail)](mailto:kanakshukla610@gmail.com)
-- 🌐 Website: [![Website](https://img.shields.io/badge/Website-Visit-7F77DD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kanak-portfolio-taupe.vercel.app/)
-- 📄 View My Resume:![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs)
+- 🌐 Website: [![Website](https://img.shields.io/badge/Website-Visit-7F77DD?style=for-the-badge&logo=googlechrome&logoColor=pink)](https://kanak-portfolio-taupe.vercel.app/)
+- 📄 View My Resume:[![Resume](https://img.shields.io/badge/Resume-View-7F77DD?style=for-the-badge&logo=read-the-docs&logoColor=red)](https://drive.google.com/file/d/115vnvP3OKo94-FofDA7OrwKdgn9SFOCB/view?usp=drivesdk)
 - 🎯 Fun Fact: Eat 🥪, Code 💻, Repeat 🔁
 
 ---
