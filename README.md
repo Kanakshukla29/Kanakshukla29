@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets" width="100%" alt="Kanak Shukla cinematic Spider-Man banner" />
+<img src="https://raw.githubusercontent.com/Kanakshukla29/Kanakshukla29/main/assets" width="100%" alt="Kanak Shukla cinematic profile banner" />
 
 <br/>
 
