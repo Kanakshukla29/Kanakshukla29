@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./kanak-hero.svg" width="100%" alt="Kanak Shukla cinematic profile banner" />
+<img src="./bannr.png" width="100%" alt="Kanak Shukla cinematic profile banner" />
 
 <br/>
 
