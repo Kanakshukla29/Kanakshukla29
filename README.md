@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kanakshukla29/Kanakshukla29/main/assets" width="100%" alt="Kanak Shukla cinematic profile banner" />
+<img src="./kanak-hero.svg" width="100%" alt="Kanak Shukla cinematic profile banner" />
 
 <br/>
-
-# KANAK SHUKLA
-
-### `DATA • AI • ENGINEERING`
 
 <a href="https://github.com/Kanakshukla29"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/kanakshukla29"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
