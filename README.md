@@ -123,29 +123,29 @@ Backend-focused application combining APIs, business logic, and production-orien
 
 <div align="center">
 
-<img src="https://img.shields.io/github/repos/Kanakshukla29?label=PUBLIC%20REPOSITORIES&style=flat-square&color=F8BBD0&labelColor=374151" />
-<img src="https://img.shields.io/github/followers/Kanakshukla29?label=FOLLOWERS&style=flat-square&color=F8BBD0&labelColor=374151" />
-<img src="https://img.shields.io/github/stars/Kanakshukla29?label=TOTAL%20STARS&style=flat-square&color=F8BBD0&labelColor=374151" />
-<img src="https://komarev.com/ghpvc/?username=Kanakshukla29&label=PROFILE%20VIEWS&color=F8BBD0&labelColor=374151&style=flat-square" />
+<img src="https://img.shields.io/github/repos/Kanakshukla29?label=PUBLIC%20REPOSITORIES&style=flat-square&color=722F37&labelColor=FFFFFF" />
+<img src="https://img.shields.io/github/followers/Kanakshukla29?label=FOLLOWERS&style=flat-square&color=722F37&labelColor=FFFFFF" />
+<img src="https://img.shields.io/github/stars/Kanakshukla29?label=TOTAL%20STARS&style=flat-square&color=722F37&labelColor=FFFFFF" />
+<img src="https://komarev.com/ghpvc/?username=Kanakshukla29&label=PROFILE%20VIEWS&color=722F37&labelColor=FFFFFF&style=flat-square" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PRIMARY%20STACK-Python%20%7C%20SQL%20%7C%20AI%2FML-F8BBD0?style=flat-square&labelColor=374151&logo=python&logoColor=5B2636" />
-<img src="https://img.shields.io/badge/FOCUS-Data%20%7C%20AI%20%7C%20Computer%20Vision-F8BBD0?style=flat-square&labelColor=374151" />
-<img src="https://img.shields.io/badge/ACTIVITY-Open%20Source%20%26%20Building-F8BBD0?style=flat-square&labelColor=374151" />
+<img src="https://img.shields.io/badge/PRIMARY%20STACK-Python%20%7C%20SQL%20%7C%20AI%2FML-722F37?style=flat-square&labelColor=FFFFFF&logo=python&logoColor=722F37" />
+<img src="https://img.shields.io/badge/FOCUS-Data%20%7C%20AI%20%7C%20Computer%20Vision-722F37?style=flat-square&labelColor=FFFFFF" />
+<img src="https://img.shields.io/badge/ACTIVITY-Open%20Source%20%26%20Building-722F37?style=flat-square&labelColor=FFFFFF" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kanakshukla29&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&title_color=F8BBD0&icon_color=F8BBD0&text_color=CBD5E1" height="180" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanakshukla29&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=F8BBD0&text_color=CBD5E1" height="180" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kanakshukla29&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&title_color=722F37&icon_color=722F37&text_color=FFFFFF" height="180" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanakshukla29&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=722F37&text_color=FFFFFF" height="180" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Kanakshukla29&theme=transparent&hide_border=true&ring=F8BBD0&fire=F8BBD0&currStreakLabel=F8BBD0&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Kanakshukla29&theme=transparent&hide_border=true&ring=722F37&fire=722F37&currStreakLabel=722F37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanakshukla29&bg_color=00000000&color=F8BBD0&line=F8BBD0&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub contribution activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanakshukla29&bg_color=FFFFFF00&color=722F37&line=722F37&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub contribution activity" />
 
 </div>
 
